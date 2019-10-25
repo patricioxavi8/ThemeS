@@ -9,7 +9,7 @@ Yet another [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) theme based o
 Just clone this repository into your OMZ `custom/themes` directory.
 
 ```
-git clone https://github.com/ss8651twtw/ys.zsh-theme.git ~/.oh-my-zsh/custom/themes/ys.zsh-theme
+git clone https://github.com/patricioxavi8/ThemeS.git ~/.oh-my-zsh/custom/themes/ys.zsh-theme
 ```
 
 And then select this theme in your `~/.zshrc`
